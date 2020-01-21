@@ -1,7 +1,7 @@
 # ResNet-Building-blocks-from-Scratch
 The ResNet (skip connections) has been the SOTA building block for recent deep learning advances. 
-I create this repository to identify building blocks for ResNet and recreate them from scratch.
-Rebuilding this wheel is to prepare for future usage of ResNet without reinventing this wheel while maintaining a deep understanding of it.
+I create this repository to identify building blocks for ResNet itself and recreate them from scratch.
+Rebuilding the wheel is to prepare for future usage of ResNet without reinventing this wheel, as well as the option to modify ResNet with a firm grasp of each building block.
 
 ---
 
